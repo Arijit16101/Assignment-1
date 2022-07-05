@@ -40,6 +40,7 @@ h2{
     margin: 20px;
     height: 50px;
     width: 50px;
+    border-radius: 5px;
 }
 .help-amount{
   background-color: rgba(211, 211, 211, 0.214);
@@ -73,6 +74,7 @@ h2{
     margin: 15px;
     width: 250px;
     height: 150px;
+    border-radius: 10px;
 }
 #shelter{
     background-image:url(icons/shelter.png) ;
@@ -84,6 +86,7 @@ h2{
     margin: 15px;
     width: 250px;
     height: 150px;
+    border-radius: 10px;
 }
 #education{
     background-image: url(icons/Frame-1.png);
@@ -95,6 +98,7 @@ h2{
     margin: 15px;
     width: 250px;
     height: 150px;
+    border-radius: 10px;
 }
 .text-beauty{
     text-align: left;
