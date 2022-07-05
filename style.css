@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+}
+.banner{
+    background-image: url(images/donation5.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 65px;
+}
+.banner-content{
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+.link-button{
+    color: white;
+    background-color: rgba(255, 0, 0, 0.976);
+    text-decoration: none;
+    padding: 5px 30px;
+    border-radius: 15px;
+}
+.donate-today{
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+}
+.help{
+    display: flex;
+    margin-left: 26%;
+    margin-right: 14%;
+}
+#help-border{
+    border : 2px solid red;
+    background-color: rgba(255, 4, 4, 0.301);
+    padding: 15px;
+    margin: 20px;
+    height: 50px;
+    width: 50px;
+}
+.help-amount{
+  background-color: rgba(211, 211, 211, 0.214);
+  padding: 15px;
+  margin: 20px;
+  text-align:center;
+  height: 50px;
+  width: 50px;
+}
+.donation-bar{
+    text-align: center;
+}
+#amount-bar{
+    color: rgba(159, 158, 158, 0.41);
+    border-bottom: 1px solid black;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.donate-plan{
+    display: flex;
+    margin-left:20% ;
+    margin-right: 20%;
+}
+#food{
+    background-image: url(icons/food.png);
+    background-position: top 10px left 15px;
+    background-repeat: no-repeat;
+    background-color: rgba(128, 128, 128, 0.071);
+    padding: 50px 15px 15px;
+    text-align: center;
+    margin: 15px;
+    width: 250px;
+    height: 150px;
+}
+#shelter{
+    background-image:url(icons/shelter.png) ;
+    background-position: top 10px left 15px;
+    background-repeat: no-repeat;
+    background-color: rgba(255, 192, 203, 0.456);
+    padding: 50px 15px 15px;
+    text-align: center;
+    margin: 15px;
+    width: 250px;
+    height: 150px;
+}
+#education{
+    background-image: url(icons/Frame-1.png);
+    background-position: top 10px left 15px;
+    background-repeat: no-repeat;
+    background-color: rgba(222, 222, 122, 0.387);
+    padding: 50px 15px 15px;
+    text-align: center;
+    margin: 15px;
+    width: 250px;
+    height: 150px;
+}
+.text-beauty{
+    text-align: left;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: auto;
+}
+#font-color{
+    color: white;
+    padding-bottom: 10px;
+}
+#footer-color1{
+    color: red;
+    padding-top: 10px;
+}
