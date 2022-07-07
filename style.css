@@ -6,6 +6,7 @@ body{
     height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
+  
 }
 h1{
     font-size: 65px;
@@ -54,8 +55,8 @@ h2{
     text-align: center;
 }
 #amount-bar{
-    color: rgba(159, 158, 158, 0.41);
-    border-bottom: 1px solid black;
+    color: rgba(159, 158, 158, 0.531);
+    border-bottom: 1px solid rgb(130, 130, 130);
     margin-left: 25%;
     margin-right: 25%;
 }
@@ -103,6 +104,38 @@ h2{
 .text-beauty{
     text-align: left;
 }
+#connect-with-us{
+
+}
+#sbscription-box{
+    background-color: rgba(212, 212, 52, 0.512);
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    margin-left: 15%;
+}
+#subscribe-form{
+    background-color: rgba(0, 0, 0, 0.059);
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 0%;
+    width: 30%;
+    margin-top: 9.5%;
+    height: 15%;
+    color: rgb(150, 150, 150);
+}
+#sbscription-button{
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 28px;
+    margin-left: 0%;
+    margin-right: 25%;
+    margin-top: 9.3%;
+    text-align: center;
+    width: 12%;
+    height: 7%;
+    color: white;
+}
 .footer{
     background-color: black;
     text-align: center;
@@ -112,7 +145,8 @@ h2{
     color: white;
     padding-bottom: 10px;
 }
-#footer-color1{
+#footer-color-style{
     color: red;
     padding-top: 10px;
+    font-family: 'Dancing Script', cursive;
 }
